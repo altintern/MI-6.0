@@ -106,14 +106,8 @@ The backend provides a variety of REST API endpoints, including:
     npm install
     ```
 
-2.  **Environment Variables:** Create a `.env.local` file in the root directory of the `fro4.0/` folder to configure the Supabase URL and anonymous key.
 
-    ```
-    NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-    ```
-
-3.  **Run the Application:** Start the Next.js development server.
+2.  **Run the Application:** Start the Next.js development server.
 
     ```bash
     npm run dev
