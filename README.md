@@ -24,18 +24,11 @@ The **Equipment Management System** is tailored for construction firms to monito
 - Financial tools such as petty cash and stock tracking  
 
 ### 🔍 Screenshots
+![Landing_page](https://github.com/user-attachments/assets/65fafb25-be5e-49bd-b974-a10d3a676464)
+![Home_page](https://github.com/user-attachments/assets/9b1e0d76-a4ed-407d-ad3b-f2f21b718b3d)
+![Projects](https://github.com/user-attachments/assets/f1197372-29f9-4a45-a35d-bf1355265914)
+![Footer](https://github.com/user-attachments/assets/b9f65f9b-ac89-4c5d-b017-d80b950259b7)
 
-![Landing_page](https://github.com/user-attachments/assets/10b14748-2fdf-40de-a04f-5266f42c1e84)
-
-
-**Dashboard View**  
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
-
-**Equipment Detail Page**  
-![Equipment Detail](https://via.placeholder.com/800x400?text=Equipment+Detail)
-
-**Maintenance Logs Page**  
-![Maintenance Logs](https://via.placeholder.com/800x400?text=Maintenance+Logs)
 
 ## Technologies Used
 
