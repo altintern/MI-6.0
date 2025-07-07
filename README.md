@@ -25,6 +25,9 @@ The **Equipment Management System** is tailored for construction firms to monito
 
 ### 🔍 Screenshots
 
+![Landing_page](https://github.com/user-attachments/assets/10b14748-2fdf-40de-a04f-5266f42c1e84)
+
+
 **Dashboard View**  
 ![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
 
