@@ -2,6 +2,57 @@
 
 This project is a comprehensive equipment management system designed to streamline construction operations. It consists of two main parts: a Spring Boot backend for managing data and a Next.js frontend for providing a user interface. The system allows for tracking equipment, managing maintenance, handling financial transactions, and generating reports.
 
+📑 Table of Contents
+Project Overview
+
+Technologies Used
+
+Backend Setup
+
+Prerequisites
+
+Configuration
+
+Key Backend Components
+
+API Endpoints
+
+Frontend Setup
+
+Prerequisites
+
+Configuration
+
+Key Frontend Components
+
+Important Files
+
+Database Schema
+
+Sequence Diagram
+
+🚀 Project Overview
+The Equipment Management System is tailored for construction firms to monitor and manage heavy machinery and associated resources efficiently. It provides:
+
+Real-time equipment tracking.
+
+Detailed maintenance logs.
+
+Role-based access for employees.
+
+Visual dashboards and reports.
+
+Financial tools such as petty cash and stock tracking.
+
+🔍 Screenshots
+📸 Add real screenshots of your UI here. Replace image links with actual URLs or local paths.
+
+Dashboard View
+
+Equipment Detail Page
+
+Maintenance Logs Page
+
 ## Technologies Used
 
 *   **Backend:** Spring Boot, Java 17
