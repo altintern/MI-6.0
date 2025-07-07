@@ -2,56 +2,37 @@
 
 This project is a comprehensive equipment management system designed to streamline construction operations. It consists of two main parts: a Spring Boot backend for managing data and a Next.js frontend for providing a user interface. The system allows for tracking equipment, managing maintenance, handling financial transactions, and generating reports.
 
-📑 Table of Contents
-Project Overview
+## 📑 Table of Contents
 
-Technologies Used
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Backend Setup](#backend-setup)
+- [Frontend Setup](#frontend-setup)
+- [Database Schema](#database-schema)
+- [Sequence Diagram](#sequence-diagram)
 
-Backend Setup
+---
 
-Prerequisites
+## 🚀 Project Overview
 
-Configuration
+The **Equipment Management System** is tailored for construction firms to monitor and manage heavy machinery and associated resources efficiently. It provides:
 
-Key Backend Components
+- Real-time equipment tracking  
+- Detailed maintenance logs  
+- Role-based access for employees  
+- Visual dashboards and reports  
+- Financial tools such as petty cash and stock tracking  
 
-API Endpoints
+### 🔍 Screenshots
 
-Frontend Setup
+**Dashboard View**  
+![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
 
-Prerequisites
+**Equipment Detail Page**  
+![Equipment Detail](https://via.placeholder.com/800x400?text=Equipment+Detail)
 
-Configuration
-
-Key Frontend Components
-
-Important Files
-
-Database Schema
-
-Sequence Diagram
-
-🚀 Project Overview
-The Equipment Management System is tailored for construction firms to monitor and manage heavy machinery and associated resources efficiently. It provides:
-
-Real-time equipment tracking.
-
-Detailed maintenance logs.
-
-Role-based access for employees.
-
-Visual dashboards and reports.
-
-Financial tools such as petty cash and stock tracking.
-
-🔍 Screenshots
-📸 Add real screenshots of your UI here. Replace image links with actual URLs or local paths.
-
-Dashboard View
-
-Equipment Detail Page
-
-Maintenance Logs Page
+**Maintenance Logs Page**  
+![Maintenance Logs](https://via.placeholder.com/800x400?text=Maintenance+Logs)
 
 ## Technologies Used
 
