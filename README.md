@@ -1,4 +1,4 @@
-# Equipment Management System
+# Machinery Inventory Management System
 
 This project is a comprehensive equipment management system designed to streamline construction operations. It consists of two main parts: a Spring Boot backend for managing data and a Next.js frontend for providing a user interface. The system allows for tracking equipment, managing maintenance, handling financial transactions, and generating reports.
 
